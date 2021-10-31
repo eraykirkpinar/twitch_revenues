@@ -101,7 +101,7 @@ class Toplevel1:
         self.Label2.configure(disabledforeground="#a3a3a3")
         self.Label2.configure(foreground="#000000")
         self.Label2.configure(relief="groove")
-        self.Label2.configure(text='''Programı all_revenues klasörü altında çalıştırmanız gerekli. İstediğiniz yayıncının ID'sini yazıp Tanımla tuşuna bastıktan sonra Çalıştır tuşuna basarak yayıncının Excel'ini alabilirsiniz.''')
+        self.Label2.configure(text='''Programı all_revenues klasörü altında çalıştırmanız gerekli. İstediğiniz yayıncının ID'sini yazıp Çalıştır tuşuna basarak yayıncının Excel'ini alabilirsiniz.''')
         self.Label2.configure(wraplength="400")
 
 if __name__ == '__main__':
