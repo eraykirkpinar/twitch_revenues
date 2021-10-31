@@ -4,6 +4,7 @@ Bu script'i kullanarak istediğiniz yayıncıların, Twitch'den sızdırılan 12
 
 ### Kullanmak için yapılması gerekenler:
 * Bilgisayarınızda Python kurulu olduğuna emin olun. Kurulu değil ise [buradan indirebilirsiniz.](https://www.python.org/downloads/)
+* Twitch'ten sızan data'yı indirmeniz gerekmektedir.
 * Yukarıdaki dosyaları indirin ve Twitch datası içerisinde **twitch-payouts/all_revenues** klasörüne atın.
 * install dosyasını çalıştırın
 * program dosyasına çift tıklayarak programı çalıştırın.
