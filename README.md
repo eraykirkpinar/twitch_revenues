@@ -4,7 +4,8 @@ Bu script'i kullanarak istediğiniz yayıncıların, Twitch'den sızdırılan 12
 
 ### Kullanmak için yapılması gerekenler:
 * Bilgisayarınızda Python kurulu olduğuna emin olun. Kurulu değil ise [buradan indirebilirsiniz.](https://www.python.org/downloads/)
-* main.py ve requirements.txt dosyasını indirdiğiniz Twitch datası içerisinde **twitch-payouts/all_revenues** klasörüne atın.
-* Bir CMD/Komut İstemi ekranı açın ve **pip install pandas** komutunu çalıştırın.
-* Herhangi bir editör ile main.py dosyasını açın ve 54. satıra istediğiniz yayıncının id'sini girin.
-* Kodu çalıştırın.
+* Yukarıdaki dosyaları indirin ve Twitch datası içerisinde **twitch-payouts/all_revenues** klasörüne atın.
+* install dosyasını çalıştırın
+* program dosyasına çift tıklayarak programı çalıştırın.
+
+Twitch ID bulmak için [bu siteye gidebilirsiniz.](https://www.streamweasels.com/support/convert-twitch-username-to-user-id/)
